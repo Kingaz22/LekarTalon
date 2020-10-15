@@ -12,8 +12,8 @@
 
 # Использование:
 В запись на прием к врачу необходимо выбрать чекодатель с необходимыми настройками.
-https://github.com/Kingaz22/LekarTalon/blob/main/img/img3.png?raw=true
+![](https://github.com/Kingaz22/LekarTalon/blob/main/img/img3.png?raw=true)
 После записи на прием под выведенным талоном появиться сслылка на талон в кодировке base64. 
-https://github.com/Kingaz22/LekarTalon/blob/main/img/img4.png?raw=true
+![](https://github.com/Kingaz22/LekarTalon/blob/main/img/img4.png?raw=true)
 
 По её нажатию запуститься приложение и отправит талон на печать
